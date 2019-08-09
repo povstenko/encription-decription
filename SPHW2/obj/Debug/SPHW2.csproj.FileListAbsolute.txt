@@ -1,0 +1,10 @@
+D:\Visual studio projects\SP\SPHW2\SPHW2\bin\Debug\SPHW2.exe.config
+D:\Visual studio projects\SP\SPHW2\SPHW2\bin\Debug\SPHW2.exe
+D:\Visual studio projects\SP\SPHW2\SPHW2\bin\Debug\SPHW2.pdb
+D:\Visual studio projects\SP\SPHW2\SPHW2\obj\Debug\SPHW2.csprojResolveAssemblyReference.cache
+D:\Visual studio projects\SP\SPHW2\SPHW2\obj\Debug\SPHW2.Form1.resources
+D:\Visual studio projects\SP\SPHW2\SPHW2\obj\Debug\SPHW2.Properties.Resources.resources
+D:\Visual studio projects\SP\SPHW2\SPHW2\obj\Debug\SPHW2.csproj.GenerateResource.cache
+D:\Visual studio projects\SP\SPHW2\SPHW2\obj\Debug\SPHW2.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\SP\SPHW2\SPHW2\obj\Debug\SPHW2.exe
+D:\Visual studio projects\SP\SPHW2\SPHW2\obj\Debug\SPHW2.pdb
